@@ -6,6 +6,7 @@ header{
 }
 .logo{
     width: 300px;
+    margin-top: 80px;
 }
 h1{
     font-size: 60px;
@@ -31,6 +32,7 @@ h1{
     background-size: cover;
     width: 300px;
     height: 200px;
+    margin-bottom: 10px;
 }
 .interest2{
     background-image: url('../img/graph.jpg');
