@@ -11,7 +11,7 @@ h1{
     font-size: 60px;
     margin: 0;
 }
-.writer{
+.gray{
     color: gray;
 }
 .booleaners{
@@ -25,4 +25,20 @@ h1{
 }
 .tablebody{
     background-color: rgb(177,229,242,255);
+}
+.interest1{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+.interest2{
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+.image-text{
+    color: white;
+    
 }
