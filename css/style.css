@@ -17,3 +17,6 @@ h1{
 .booleaners{
     color: rgb(51, 176, 231);
 }
+.highlight{
+    background-color: yellow;
+}
