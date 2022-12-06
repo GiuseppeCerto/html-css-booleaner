@@ -12,8 +12,12 @@ h1{
     font-size: 60px;
     margin: 0;
 }
-.gray{
+.gray1{
     color: gray;
+}
+.gray2{
+    color: gray;
+    font-size: 12px;
 }
 .booleaners{
     color: rgb(51, 176, 231);
@@ -21,11 +25,26 @@ h1{
 .highlight{
     background-color: yellow;
 }
+.list{
+    padding-left: 20px;
+}
 .tablehead{
     background-color: rgb(32,169,229,255);
+    text-align: left;
+    color: white;
 }
-.tablebody{
+.tablebody1{
     background-color: rgb(177,229,242,255);
+    text-align: left;
+}
+.tablebody2{
+    text-align: left;
+}
+.w25{
+    width: 25%;
+}
+.w50{
+    width: 50%;
 }
 .interest1{
     background-image: url('../img/monitor.jpg');
@@ -42,5 +61,4 @@ h1{
 }
 .image-text{
     color: white;
-    
 }
